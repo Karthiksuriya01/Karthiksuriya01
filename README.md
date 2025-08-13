@@ -5,7 +5,7 @@ Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio](http://karthiksuriya.framer.website/)
+* 🖥️  See my portfolio at [Portfolio](http://suriyaa.framer.website/)
 * ✉️  You can contact me at [karthiksuryainternship@gmail.com](mailto:karthiksuryainternship@gmail.com)
 * 🚀  I'm currently working on [Improving my skills](http://crems.vercel.app)
 * 🧠  I'm learning ReactJs, Docker
